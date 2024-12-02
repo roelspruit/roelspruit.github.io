@@ -1,0 +1,56 @@
+body {
+    font-family: "Helvetica";
+    font-weight: lighter;
+    margin-bottom: 200px;
+}
+
+p {
+    font-size: 1.5em;
+    color: #4F4F4F;
+}
+
+h1, h2, h3, p {
+    margin: 0px 0px 5px 0px;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 3em;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+#header {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.topic {
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    height: 275px;
+}
+
+.topic .text {
+    margin-top: 100px;
+}
+
+.imageleft img {
+    float:left;
+    margin-right: 30px;
+}
+
+.imageright img {
+    float:right;
+    margin-left: 30px;
+}
+
+.downloadbutton {
+    margin-top: 20px;
+}
